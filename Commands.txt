@@ -1,0 +1,3 @@
+Windows:
+//Print Environment variable in Windows Powershell
+Get-ChildItem Env:YoutubeApiKey
